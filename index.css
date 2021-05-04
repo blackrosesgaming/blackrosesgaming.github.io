@@ -1,0 +1,41 @@
+body {
+	background-color: #1b1b1b;
+	color: #ffffff;
+	padding: 2em;
+	margin-top: 1em;
+	text-align: center;
+	position: relative;
+}
+
+h1 {
+	font-size: 3em;
+	text-align: center;
+	font-family: 'Pangolin', cursive;
+}
+
+p {
+	font-size: 1.5em;
+	text-align: center;
+	font-family: 'Pangolin', cursive;
+	margin-top: 1.25em;
+}
+
+a {
+	text-decoration: none;
+}
+
+#copy {
+	font-size: 0.85em;
+	text-align: center;
+	display: inline;
+}
+
+iframe {
+	display: block;
+	text-align: center;
+	margin: 0.25em auto;
+}
+
+#social {
+	margin: 0.5em auto;
+}
